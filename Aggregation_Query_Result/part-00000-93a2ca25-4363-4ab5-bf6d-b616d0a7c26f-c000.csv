@@ -1,0 +1,156 @@
+indicator_name,time_period,avg_data_value
+Annual vehicle miles traveled,2005,67.17757009345793
+Annual vehicle miles traveled,2010,73.14672897196265
+Annual vehicle miles traveled,2019,79.96635514018695
+Annual vehicle miles traveled (cars),2005,62.803738317756995
+Annual vehicle miles traveled (cars),2010,67.60654205607474
+Annual vehicle miles traveled (cars),2019,72.91121495327101
+Annual vehicle miles traveled (trucks),2005,3.7672897196261697
+Annual vehicle miles traveled (trucks),2010,3.4168224299065426
+Annual vehicle miles traveled (trucks),2019,4.477570093457943
+Asthma emergency department visits due to PM2.5,2005-2007,90.43229166666664
+Asthma emergency department visits due to PM2.5,2009-2011,73.48229166666665
+Asthma emergency department visits due to PM2.5,2012-2014,67.57187500000002
+Asthma emergency department visits due to PM2.5,2015-2017,54.182291666666664
+Asthma emergency department visits due to PM2.5,2017-2019,43.583333333333336
+Asthma emergency departments visits due to Ozone,2005-2007,67.70208333333336
+Asthma emergency departments visits due to Ozone,2009-2011,76.27187500000001
+Asthma emergency departments visits due to Ozone,2012-2014,82.66666666666669
+Asthma emergency departments visits due to Ozone,2015-2017,72.23229166666665
+Asthma emergency departments visits due to Ozone,2017-2019,60.458333333333336
+Asthma hospitalizations due to Ozone,2005-2007,13.523958333333335
+Asthma hospitalizations due to Ozone,2009-2011,14.052083333333334
+Asthma hospitalizations due to Ozone,2012-2014,14.312500000000002
+Asthma hospitalizations due to Ozone,2015-2017,10.589583333333334
+Asthma hospitalizations due to Ozone,2017-2019,8.53125
+Boiler Emissions- Total NOx Emissions,2013,56.29999999999999
+Boiler Emissions- Total NOx Emissions,2015,51.28333333333333
+Boiler Emissions- Total PM2.5 Emissions,2013,1.6604166666666662
+Boiler Emissions- Total PM2.5 Emissions,2015,1.0875000000000004
+Boiler Emissions- Total SO2 Emissions,2013,14.231250000000003
+Boiler Emissions- Total SO2 Emissions,2015,7.752083333333334
+Cardiac and respiratory deaths due to Ozone,2005-2007,5.085416666666668
+Cardiac and respiratory deaths due to Ozone,2009-2011,4.872916666666667
+Cardiac and respiratory deaths due to Ozone,2012-2014,5.135416666666668
+Cardiac and respiratory deaths due to Ozone,2015-2017,4.887499999999999
+Cardiac and respiratory deaths due to Ozone,2017-2019,4.854166666666667
+Cardiovascular hospitalizations due to PM2.5 (age 40+),2005-2007,26.14999999999999
+Cardiovascular hospitalizations due to PM2.5 (age 40+),2009-2011,17.708333333333332
+Cardiovascular hospitalizations due to PM2.5 (age 40+),2012-2014,13.372916666666663
+Cardiovascular hospitalizations due to PM2.5 (age 40+),2015-2017,16.989583333333336
+Cardiovascular hospitalizations due to PM2.5 (age 40+),2017-2019,9.645833333333334
+Deaths due to PM2.5,2005-2007,66.90833333333332
+Deaths due to PM2.5,2009-2011,49.258333333333326
+Deaths due to PM2.5,2012-2014,41.74791666666667
+Deaths due to PM2.5,2015-2017,38.55625000000001
+Deaths due to PM2.5,2017-2019,33.916666666666664
+Fine particles (PM 2.5),Annual Average 2009,10.986524822695031
+Fine particles (PM 2.5),Annual Average 2010,10.074468085106384
+Fine particles (PM 2.5),Annual Average 2011,10.587234042553185
+Fine particles (PM 2.5),Annual Average 2012,9.445390070921984
+Fine particles (PM 2.5),Annual Average 2013,9.14184397163121
+Fine particles (PM 2.5),Annual Average 2014,9.407801418439718
+Fine particles (PM 2.5),Annual Average 2015,9.043971631205675
+Fine particles (PM 2.5),Annual Average 2016,7.894326241134753
+Fine particles (PM 2.5),Annual Average 2017,7.741134751773044
+Fine particles (PM 2.5),Annual Average 2018,7.395744680851063
+Fine particles (PM 2.5),Annual Average 2019,7.015602836879437
+Fine particles (PM 2.5),Annual Average 2020,6.326950354609929
+Fine particles (PM 2.5),Annual Average 2021,6.760992907801417
+Fine particles (PM 2.5),Annual Average 2022,6.067375886524823
+Fine particles (PM 2.5),Summer 2009,11.109219858156024
+Fine particles (PM 2.5),Summer 2010,12.204964539007088
+Fine particles (PM 2.5),Summer 2011,11.789361702127657
+Fine particles (PM 2.5),Summer 2012,10.663120567375893
+Fine particles (PM 2.5),Summer 2013,10.566666666666665
+Fine particles (PM 2.5),Summer 2014,8.996453900709225
+Fine particles (PM 2.5),Summer 2015,9.769503546099294
+Fine particles (PM 2.5),Summer 2016,8.468085106382977
+Fine particles (PM 2.5),Summer 2017,9.387943262411346
+Fine particles (PM 2.5),Summer 2018,8.698581560283682
+Fine particles (PM 2.5),Summer 2019,8.313475177304962
+Fine particles (PM 2.5),Summer 2020,7.173049645390073
+Fine particles (PM 2.5),Summer 2021,8.617730496453897
+Fine particles (PM 2.5),Summer 2022,6.728368794326243
+Fine particles (PM 2.5),Winter 2008-09,13.565248226950356
+Fine particles (PM 2.5),Winter 2009-10,10.43049645390071
+Fine particles (PM 2.5),Winter 2010-11,13.178723404255313
+Fine particles (PM 2.5),Winter 2011-12,9.692198581560284
+Fine particles (PM 2.5),Winter 2012-13,10.934042553191487
+Fine particles (PM 2.5),Winter 2013-14,12.383687943262414
+Fine particles (PM 2.5),Winter 2014-15,9.638297872340429
+Fine particles (PM 2.5),Winter 2015-16,8.457446808510635
+Fine particles (PM 2.5),Winter 2016-17,8.201418439716315
+Fine particles (PM 2.5),Winter 2017-18,8.57163120567376
+Fine particles (PM 2.5),Winter 2018-19,7.718439716312061
+Fine particles (PM 2.5),Winter 2019-20,7.815602836879428
+Fine particles (PM 2.5),Winter 2020-21,6.90709219858156
+Fine particles (PM 2.5),Winter 2021-22,7.076595744680847
+Nitrogen dioxide (NO2),Annual Average 2009,25.75390070921986
+Nitrogen dioxide (NO2),Annual Average 2010,23.763829787234027
+Nitrogen dioxide (NO2),Annual Average 2011,24.17375886524823
+Nitrogen dioxide (NO2),Annual Average 2012,22.05744680851063
+Nitrogen dioxide (NO2),Annual Average 2013,21.319858156028378
+Nitrogen dioxide (NO2),Annual Average 2014,21.015602836879417
+Nitrogen dioxide (NO2),Annual Average 2015,20.360283687943276
+Nitrogen dioxide (NO2),Annual Average 2016,19.47659574468086
+Nitrogen dioxide (NO2),Annual Average 2017,19.691489361702125
+Nitrogen dioxide (NO2),Annual Average 2018,18.826950354609934
+Nitrogen dioxide (NO2),Annual Average 2019,17.325531914893624
+Nitrogen dioxide (NO2),Annual Average 2020,16.820567375886522
+Nitrogen dioxide (NO2),Annual Average 2021,17.004255319148935
+Nitrogen dioxide (NO2),Annual Average 2022,16.054609929078023
+Nitrogen dioxide (NO2),Summer 2009,22.07872340425531
+Nitrogen dioxide (NO2),Summer 2010,20.429787234042557
+Nitrogen dioxide (NO2),Summer 2011,19.912056737588657
+Nitrogen dioxide (NO2),Summer 2012,18.331914893617018
+Nitrogen dioxide (NO2),Summer 2013,17.657446808510638
+Nitrogen dioxide (NO2),Summer 2014,16.231205673758858
+Nitrogen dioxide (NO2),Summer 2015,15.741843971631209
+Nitrogen dioxide (NO2),Summer 2016,15.19432624113475
+Nitrogen dioxide (NO2),Summer 2017,15.405673758865257
+Nitrogen dioxide (NO2),Summer 2018,14.243262411347517
+Nitrogen dioxide (NO2),Summer 2019,14.681560283687945
+Nitrogen dioxide (NO2),Summer 2020,12.136879432624113
+Nitrogen dioxide (NO2),Summer 2021,12.63120567375887
+Nitrogen dioxide (NO2),Summer 2022,11.92127659574468
+Nitrogen dioxide (NO2),Winter 2008-09,30.833333333333332
+Nitrogen dioxide (NO2),Winter 2009-10,26.979432624113482
+Nitrogen dioxide (NO2),Winter 2010-11,30.240425531914884
+Nitrogen dioxide (NO2),Winter 2011-12,24.70851063829787
+Nitrogen dioxide (NO2),Winter 2012-13,25.795035460992896
+Nitrogen dioxide (NO2),Winter 2013-14,28.050354609929105
+Nitrogen dioxide (NO2),Winter 2014-15,25.270921985815594
+Nitrogen dioxide (NO2),Winter 2015-16,23.729078014184413
+Nitrogen dioxide (NO2),Winter 2016-17,25.882978723404257
+Nitrogen dioxide (NO2),Winter 2017-18,24.777304964539006
+Nitrogen dioxide (NO2),Winter 2018-19,22.154609929078024
+Nitrogen dioxide (NO2),Winter 2019-20,25.095035460992904
+Nitrogen dioxide (NO2),Winter 2020-21,21.83758865248227
+Nitrogen dioxide (NO2),Winter 2021-22,21.33049645390071
+Outdoor Air Toxics - Benzene,2005,2.9104166666666678
+Outdoor Air Toxics - Benzene,2011,1.6336448598130844
+Outdoor Air Toxics - Benzene,2014,0.9249999999999999
+Outdoor Air Toxics - Formaldehyde,2005,3.1958333333333333
+Outdoor Air Toxics - Formaldehyde,2011,2.160747663551401
+Outdoor Air Toxics - Formaldehyde,2014,1.5375000000000003
+Ozone (O3),2-Year Summer Average 2009-2010,27.021985815602836
+Ozone (O3),Summer 2009,24.768794326241128
+Ozone (O3),Summer 2010,32.44113475177305
+Ozone (O3),Summer 2011,31.8191489361702
+Ozone (O3),Summer 2012,32.92907801418441
+Ozone (O3),Summer 2013,30.03900709219858
+Ozone (O3),Summer 2014,30.45390070921987
+Ozone (O3),Summer 2015,30.91560283687943
+Ozone (O3),Summer 2016,32.98297872340428
+Ozone (O3),Summer 2017,28.793617021276596
+Ozone (O3),Summer 2018,29.925531914893604
+Ozone (O3),Summer 2019,29.645390070921987
+Ozone (O3),Summer 2020,29.734042553191475
+Ozone (O3),Summer 2021,29.736879432624136
+Ozone (O3),Summer 2022,33.15602836879431
+Respiratory hospitalizations due to PM2.5 (age 20+),2005-2007,20.729166666666668
+Respiratory hospitalizations due to PM2.5 (age 20+),2009-2011,14.443750000000001
+Respiratory hospitalizations due to PM2.5 (age 20+),2012-2014,12.095833333333333
+Respiratory hospitalizations due to PM2.5 (age 20+),2015-2017,12.199999999999998
+Respiratory hospitalizations due to PM2.5 (age 20+),2017-2019,7.4375

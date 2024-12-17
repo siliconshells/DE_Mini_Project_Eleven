@@ -179,14 +179,6 @@ def test_get_table_columns():
     print("Reading All Column Test Successful")
 
 
-# Load environment variables
-load_dotenv()
-server_h = os.getenv("SERVER_HOSTNAME")
-access_token = os.getenv("ACCESS_TOKEN")
-FILESTORE_PATH = "/tmp/MH_COVID.csv"
-url = f"https://{server_h}/api/2.0"
-
-
 # # Function to check if a file path exists and auth settings still work
 # def check_filestore_path(path, headers):
 #     try:
@@ -207,9 +199,9 @@ url = f"https://{server_h}/api/2.0"
 if __name__ == "__main__":
     test_extract()
     test_transform_and_load()
-    # test_read_data()
-    # test_read_all_data()
-    # test_save_data()
-    # test_delete_data()
-    # test_get_table_columns()
+    test_read_data()
+    test_read_all_data()
+    test_save_data()
+    test_delete_data()
+    test_get_table_columns()
     # test_databricks()

@@ -5,7 +5,7 @@ format:
 	black *.py
 
 lint:
-	ruff check *.py my_lib/*.py
+	ruff check *.py my_lib/*.py --fix
 
 test:
 # Tests suspended due to difference in Databricks and Github requirements.

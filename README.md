@@ -1,6 +1,6 @@
 # Data Engineering Mini Project Eleven
 
-[![CI](https://github.com/nogibjj/Leonard_Eshun_Mini_Project_Eleven/actions/workflows/workflow.yml/badge.svg)](https://github.com/nogibjj/Leonard_Eshun_Mini_Project_Eleven/actions/workflows/workflow.yml)
+[![CI](https://github.com/siliconshells/DE_Mini_Project_Eleven/actions/workflows/workflow.yml/badge.svg)](https://github.com/siliconshells/DE_Mini_Project_Eleven/actions/workflows/workflow.yml)
 
 
 This repository is created as an assignment from the Data Engineering course, IDS 706. The aim is to create a a data pipeline using Databricks.
